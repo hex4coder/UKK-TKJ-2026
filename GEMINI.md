@@ -6,7 +6,11 @@ The documents are organized into four main packages (Paket 1 to Paket 4), each r
 
 ## Directory Structure and Key Files
 
-The files follow a specific naming convention based on the exam package and the type of document:
+The files are organized to focus on the active package (Paket 4), while other packages are kept in their respective folders:
+
+### Project Organization:
+*   **Root Directory:** Contains the active documentation for Paket 4, including setup guides (`SETTING-*.md`), the practical exam paper (`P4-*.pdf`), and the student work guide (`LKPD-P4.md`).
+*   **Paket-1/, Paket-2/, Paket-3/:** Subdirectories containing all documents (INV, KAP, PPsp, SPK) for the respective inactive exam packages.
 
 ### File Type Suffixes:
 *   **INV (Inventaris):** Lists the required equipment, tools, and materials for the specific exam package.

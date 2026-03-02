@@ -73,7 +73,7 @@ Jika diminta membatasi waktu (misal: Jam 07:00 - 16:00), gunakan **Firewall Filt
 /ip firewall filter add chain=forward action=drop src-address=192.168.20.0/24 time=0s-6h59m59s,sun,mon,tue,wed,thu,fri,sat
 ```
 
----
+===
 **Tips Pengujian:**
 - Coba hubungkan HP/Laptop ke SSID yang dibuat.
 - Pastikan muncul halaman login (*Captive Portal*).

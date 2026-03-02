@@ -42,5 +42,5 @@ Jika diminta memberikan IP otomatis ke PC Client:
 /ip dhcp-server add interface=ether2 address-pool=pool-lan disabled=no
 /ip dhcp-server network add address=192.168.10.0/24 gateway=192.168.10.1 dns-server=8.8.8.8
 ```
----
+===
 **Catatan:** Pastikan kabel dari ISP terpasang di `ether1` dan kabel ke Switch terpasang di `ether2`.

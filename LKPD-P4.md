@@ -83,6 +83,6 @@ Lakukan `ping` dari salah satu PC Client:
 - **Destination Host Unreachable:** Periksa apakah alamat IP berada dalam satu subnet yang sama.
 - **Kabel Putus:** Lakukan crimping ulang pada ujung konektor.
 
----
+===
 **Status Pekerjaan:** [ ] Selesai | [ ] Belum Selesai
 **Tanda Tangan Penguji:** ____________________

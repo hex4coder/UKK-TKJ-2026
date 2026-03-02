@@ -36,5 +36,5 @@
    ```cmd
    ping 192.168.10.32
    ```
----
+===
 **Catatan:** Nonaktifkan sementara **Windows Firewall** atau beri izin untuk *ICMP (Ping)* agar tes koneksi tidak diblokir.

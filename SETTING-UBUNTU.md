@@ -55,5 +55,5 @@ Lakukan ping ke Gateway atau PC lain:
 ping 192.168.10.1
 ping 192.168.10.10 # Ping ke Server
 ```
----
+===
 **Catatan:** Pastikan tidak ada kesalahan spasi dalam file YAML karena format ini sangat sensitif terhadap spasi/indentasi.
